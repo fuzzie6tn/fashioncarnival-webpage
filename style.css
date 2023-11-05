@@ -1,0 +1,88 @@
+body{
+    background-color:#D6EAF8;
+}
+.ad{
+    background-color: rgba(236, 67, 95, 0.943);
+}
+.showcase{
+    background: url('./1.jpg');
+   
+}
+.showcasehead{
+    font-size: 70px;
+    text-shadow: 2px 2px salmon;
+}
+.showcasepara{
+    width: 50%;
+    margin-left: 50%;
+    text-align: end;
+    line-height: 1.5rem;
+}
+.btnshow{
+    padding: 3px;
+
+}
+.btnshow:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+}
+span{
+    color: rgb(236, 69, 96);
+}
+/* nav{
+    background: rgb(236, 69, 96);
+} */
+.navbar-brand{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-link{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-link:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px; ;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.free i{
+   
+    font-size: 40px;
+}
+/* .card-body{
+    background: url('./2.jpg') no-repeat center center/cover;
+    opacity: .9;
+}
+     */
+
+.container-fluid {
+    margin-top: -50px;
+}     
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+    transition: .3s ease-in-out;
+}
+.prodheading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    
+}
+.prodpara{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 1rem;
+    
+}
+.box{
+    box-sizing: border-box;
+    
+}
+.cardtext{
+    padding-bottom: -1px;
+}
+input{
+    margin-left: 20%;
+}
+.iconpay{
+    font-size: 50px;
+}
